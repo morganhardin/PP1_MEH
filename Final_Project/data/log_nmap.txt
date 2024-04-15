@@ -1,0 +1,12 @@
+Starting Nmap 7.94 ( https://nmap.org ) at 2024-04-15 17:23 EDT
+Nmap scan report for 17.57.144.149
+Host is up (0.066s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+80/tcp   closed http
+443/tcp  open   https
+2196/tcp closed unknown
+6000/tcp closed X11
+8081/tcp open   blackice-icecap
+
+Nmap done: 1 IP address (1 host up) scanned in 45.96 seconds

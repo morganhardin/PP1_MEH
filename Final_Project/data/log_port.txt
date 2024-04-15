@@ -1,0 +1,5 @@
+80/tcp   closed http
+443/tcp  open   https
+2196/tcp closed unknown
+6000/tcp closed X11
+8081/tcp open   blackice-icecap
